@@ -78,7 +78,7 @@ const Knowledge = () => {
           height={202}
           subtitle="Human Resources"
           title="Skill is the New Oil"
-          text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore…"
+          text="In today's world, your workforce's skill becomes the primary asset to your business. That may be why upskilling is the new..."
         />
       </div>
     </section>

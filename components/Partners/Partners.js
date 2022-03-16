@@ -37,27 +37,27 @@ const Partners = () => {
           icon={gcp.src}
           width={164}
           height={92}
-          alt="gcp"
-          title="Google Cloud"
-          text="Lorem ipsum dolor sit amet, consectetue"
+          alt="Council Aware"
+          title="EC-Council Aware"
+          text="Agrim partnered with Aware to bring to its customers a world-class Phishing, Vishing, SMShing, and eLearning platform to help improve the security awareness of end-users in the region."
           style={{ backgroundColor: "#5C2DCC" }}
         />
         <PartnersItem
           icon={microsoft.src}
           width={136}
           height={136}
-          alt="microsoft azure"
-          title="Microsoft Azure"
-          text="Lorem ipsum dolor sit amet, consectetue"
+          alt="sailpoint"
+          title="Sailpoint"
+          text="Agrim is the authorized implementation partner of SailPoint in the Nordics region. With the experience of complex on-premises implementation of the IDAM solution in the area, grim is the partner of choice for enterprises looking to enhance their access management using a world-class platform."
           style={{ backgroundColor: "#1011C0" }}
         />
         <PartnersItem
           icon={azure.src}
           width={142}
           height={142}
-          alt="microsoft azure"
-          title="Microsoft Azure"
-          text="Lorem ipsum dolor sit amet, consectetue"
+          alt="archer"
+          title="Archer"
+          text="Agrim has clients that need Governance, Risk, and Compliance to efficiently manage their ISMS Platform. To fulfill this need, Agrim partnered with one of the best GRC platforms globally – Archer and has implemented it for some of its clients."
           style={{ backgroundColor: "#0B0754" }}
         />
         <PartnersItem

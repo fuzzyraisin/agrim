@@ -56,10 +56,9 @@ const Clients = () => {
             height={237}
             title="Telecommunications Com..."
             items={[
-              "Lorem ipsum dolor sit amet, consectetuer",
-              "Adipiscing elit, sed diam nonummy nibh euismod",
-              "Tincidunt ut laoreet dolore magna aliquam erat",
-              "Volutpat. Ut wisi enim ad minim veniam",
+              "50% Reduction in time to complete cyber security assessments.",
+              "30% reduction in time to response to cyber risks.",
+              "Archer IRM Solution implemented.",
             ]}
           />
           <ClientsItem
@@ -70,10 +69,9 @@ const Clients = () => {
             height={228}
             title="Triple O Finance"
             items={[
-              "Lorem ipsum dolor sit amet, consectetuer",
-              "Adipiscing elit, sed diam nonummy nibh euismod",
-              "Tincidunt ut laoreet dolore magna aliquam erat",
-              "Volutpat. Ut wisi enim ad minim veniam",
+              "50% Reduction in loan processing time.",
+              "75% of cases handled within the first interaction.",
+              "3X increase in inbound leads.",
             ]}
           />
           <ClientsItem
@@ -82,12 +80,11 @@ const Clients = () => {
             alt="partner 3"
             width={399}
             height={228}
-            title="HPHISH – Global"
+            title="EC-Council aware"
             items={[
-              "Lorem ipsum dolor sit amet, consectetuer",
-              "Adipiscing elit, sed diam nonummy nibh euismod",
-              "Tincidunt ut laoreet dolore magna aliquam erat",
-              "Volutpat. Ut wisi enim ad minim veniam",
+              "Improved User Confidence.",
+              "High Compliance ratio across all departments.",
+              "Automated Rollouts.",
             ]}
           />
           <ClientsItem
