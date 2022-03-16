@@ -14,7 +14,12 @@ const ExpertItem = (props) => {
   return (
     <div className={style["experts__item"]}>
       <div className={style["experts__item--icon"]}>
-        <Image src={props.icon} width={props.width} height={props.height} />
+        <Image
+          src={props.icon}
+          width={props.width}
+          height={props.height}
+          alt=" "
+        />
       </div>
       <h2 className={style["experts__item--head"]}>{props.title}</h2>
       <div className={style["experts__item--listContainer"]}>

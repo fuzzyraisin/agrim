@@ -10,7 +10,7 @@ const Quiz = () => {
     <section className={style.quiz}>
       <h1>Not Sure About The Digital Transformation Path for your business?</h1>
       <div className={style["quiz__img"]}>
-        <Image src={quiz} width={600} height={625} />
+        <Image src={quiz} width={600} height={625} alt=" " />
       </div>
       <div className={style["quiz__button"]}>
         <Link href="#">take the quiz</Link>

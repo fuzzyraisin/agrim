@@ -20,7 +20,7 @@ const Header = () => {
           </p>
           <div className={style["header__buttons"]}>
             <Button>
-              <Link href="#">Let's work together</Link>
+              <Link href="#">Let&apos;s work together</Link>
             </Button>
             <Button>
               <Link href="#">Explore Services</Link>
